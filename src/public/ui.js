@@ -1,0 +1,6 @@
+$(() => {
+
+  $( "#sortable" ).sortable();
+  $( "#sortable" ).disableSelection();
+
+});
